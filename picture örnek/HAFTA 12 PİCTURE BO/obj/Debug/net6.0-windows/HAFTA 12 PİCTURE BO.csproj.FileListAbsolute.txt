@@ -1,0 +1,18 @@
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.csproj.AssemblyReference.cache
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\HAFTA_12_PİCTURE_BO.Form1.resources
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\HAFTA_12_PİCTURE_BO.Properties.Resources.resources
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.csproj.GenerateResource.cache
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.AssemblyInfoInputs.cache
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.AssemblyInfo.cs
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.csproj.CoreCompileInputs.cache
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\bin\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.exe
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\bin\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.deps.json
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\bin\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.runtimeconfig.json
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\bin\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.dll
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\bin\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.pdb
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.dll
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\refint\HAFTA 12 PİCTURE BO.dll
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.pdb
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\HAFTA 12 PİCTURE BO.genruntimeconfig.cache
+C:\Users\cengiz\source\repos\HAFTA 12 PİCTURE BO\HAFTA 12 PİCTURE BO\obj\Debug\net6.0-windows\ref\HAFTA 12 PİCTURE BO.dll
